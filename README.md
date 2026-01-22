@@ -1,4 +1,4 @@
-Abstract:
+# Abstract:
 
 News headline classification is an important task in Natural Language Processing (NLP) that involves assigning
 short text sequences to predefined categories. This project addresses a multiclass text classification problem using
